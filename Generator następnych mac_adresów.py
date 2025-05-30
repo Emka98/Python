@@ -1,4 +1,6 @@
- def generuj_mac(mac_adres, ilosc):
+import re
+
+def generuj_mac(mac_adres, ilosc):
     # Sprawdzenie poprawności adresu MAC
     if not re.match(r"^([0-9A-Fa-f]{2}:){5}[0-9A-Fa-f]{2}$", mac_adres):
         raise ValueError("Niepoprawny format adresu MAC")
