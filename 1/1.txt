@@ -1,0 +1,1 @@
+Enter three non-negative integers from the keyboard. If any of them is negative, repeat the input. Then find the largest of them. Display the sum of the remaining numbers as many times as the value of the largest number.
