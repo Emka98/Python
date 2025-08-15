@@ -1,0 +1,1 @@
+Enter an integer from the keyboard and check if it is divisible by: 3 and 5; 3 but not 5; 5 but not 3; neither 3 nor 5. Display the correct answer on the screen.
