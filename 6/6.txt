@@ -1,0 +1,1 @@
+Enter five integers from the keyboard and display information about how many of them were even and how many were odd.
