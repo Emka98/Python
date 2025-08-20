@@ -1,0 +1,1 @@
+Keep taking characters from the keyboard until the character x is entered. How many characters were taken?

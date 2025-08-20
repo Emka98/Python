@@ -1,0 +1,1 @@
+Display the integers from 1 to 120 in ascending order, skipping the numbers that are divisible by both 11 and 5. Display information on how many numbers were shown and how many were skipped.

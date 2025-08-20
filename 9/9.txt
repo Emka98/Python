@@ -1,0 +1,1 @@
+Get an integer from the keyboard and perform the following operations on it: if the number was negative, decrease it by 1; if the number was positive, increase it by 1; if it was zero, leave it unchanged; Display the number after the changes [1]. Then determine the parity of the number after the changes and display information about it with an appropriate message [1].

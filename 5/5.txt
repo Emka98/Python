@@ -1,0 +1,1 @@
+You have the following expression: (((a1+a2)*a3)-a4)/a5 (elements a1 to a5 are of type float). Get each of the variables a1 to a5 from the keyboard, evaluate the expression, and display the result. Note the value of variable a5. If its value is 0, do not perform the operation, but report it.

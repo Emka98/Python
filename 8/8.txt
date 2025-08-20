@@ -1,0 +1,6 @@
+From the keyboard, retrieve two numbers (float) and an operation sign (one of the following: *, +, –, /).
+Depending on the sign, perform the appropriate and possible operations on the two numbers and report the result [1]. Pay attention to division by 0!
+For example, for the numbers 3 and 9.5 and the + sign, return the sum 3 + 9.5, which equals 12.5.
+
+Also, check the operation when swapping numbers [1]. If the result is different from the previous one, display both results. If it is the same, display it only once. For example, for the numbers 5 and 2 and the / sign (division), you need to display 5/2 and 2/5,
+because they produce different results.

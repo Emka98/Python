@@ -1,0 +1,1 @@
+Get a character from the key. Check if it's a vowel, consonant, or digit. Tell us what character it is. Detect only lowercase English letters and digits.
