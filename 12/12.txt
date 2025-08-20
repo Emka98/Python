@@ -1,0 +1,1 @@
+Display the integers from -25 to 25 in ascending order, excluding 0.
