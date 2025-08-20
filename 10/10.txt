@@ -1,0 +1,1 @@
+Display the integer numbers from 1 to 100 in ascending order. Do this using both for and while loops.
