@@ -1,0 +1,1 @@
+Read a number from the keyboard and display its double. Repeat the operation until a value between 1 and 10 inclusive is entered. Calculate the sum of the displayed elements, excluding the number that ends the loop. Display this sum.
