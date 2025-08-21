@@ -1,0 +1,1 @@
+Guess the pattern of the sequence based on the first ten elements [1], and then display its hundred elements [1]. The beginning of the sequence: 6, 2, 8, 3, 10, 4, 12, 5, 14, 6, …
