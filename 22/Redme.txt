@@ -1,0 +1,1 @@
+Get numbers from the keyboard and insert them into the list [1]. The download will end when the same number [1] is entered twice in a row.
