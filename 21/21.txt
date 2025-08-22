@@ -1,0 +1,1 @@
+Retrieve five numbers from the keyboard. If they form an ascending sequence (according to the order in which they were retrieved), report this.
