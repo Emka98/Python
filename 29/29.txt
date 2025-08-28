@@ -1,0 +1,13 @@
+Kasia decided in 2022 to mark the days when she managed to keep her diet, as well as those when she did not succeed. For each day of the year, numbered from 1 to 365, create a list for Kasia and copy the following values into it, where 1 represents True and 0 represents False (file 29_dieta.txt).
+
+1,1,0,1,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,1,0,0,1,0,0,0,0,0,1,1,0,
+0,0,1,1,1,1,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,1,0,0,1,0,0,1,1,1,0,
+1,0,0,1,1,0,1,0,0,1,1,0,1,1,1,0,0,0,0,1,0,0,0,1,1,0,1,0,1,1,0,1,0,1,1,1,1,1,1,0,0,1,0,
+0,1,1,1,0,0,1,0,0,1,1,0,1,0,0,1,1,0,0,1,0,1,0,1,1,0,1,1,0,0,1,1,0,0,1,0,0,1,0,0,0,0,1,
+0,1,0,1,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,1,1,0,1,0,1,0,1,0,1,0,1,1,0,1,1,1,0,0,1,1,0,0,1,
+0,0,1,0,1,1,1,1,1,0,1,1,1,1,1,0,1,0,0,1,1,1,1,1,1,1,0,1,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,
+1,1,0,1,0,1,1,0,0,0,1,1,1,1,0,1,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,1,0,1,
+0,0,1,1,1,1,0,0,0,1,0,0,1,0,1,1,1,1,0,0,1,1,1,0,0,0,1,1,1,1,0,0,1,0,0,0,1,1,1,1,0,0,0,
+1,1,0,1,0,1,0,0,1,1,1,1,1,0,1,0,1,1,1,1,1
+
+Each digit (0 or 1) represents a day of success (1) or failure (0). Create an appropriate list containing the above-mentioned data. Answer the following questions: For how many days in the year did Kasia achieve dietary success? [1] How many periods of at least five consecutive days were there that constituted dietary failure? Provide the number of the day in the year that starts each of the periods [4].The data from the file does not need to be read by Python in this task. You can manually copy it to the list.
