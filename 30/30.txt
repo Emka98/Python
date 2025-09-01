@@ -1,0 +1,3 @@
+A space blob orbiting its star decided to increase its mass. Initially, the Blob weighed 1 kg and failed to grow during the first two orbits around its star. But by the third orbit, the Blob weighed as much as the sum of its weights from the last two orbits (the weight from the first orbit and the weight from the second orbit). From that point on, everything happened rapidly. The next orbit again resulted in the Blob's weight being equal to the sum of the weights from the last two orbits, and this pattern continued. What was the space blob's weight after the thirteenth orbit around its star? Assume that the first two orbits were weights of 1 and 1.
+The Blob will return! You'll encounter it in other challenges. Stay alert!
+
